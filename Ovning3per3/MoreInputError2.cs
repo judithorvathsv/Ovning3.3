@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ovning3per3
 {
-    class MoreInputError2: UserError
+    public class MoreInputError2: UserError
     {
         public override string UEMessage()=> "This is a new error, error2. This fired an error!";
     

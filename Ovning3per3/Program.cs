@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace Ovning3per3
 {
-    class Program
+   public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             List<UserError> userErrors = new ();
